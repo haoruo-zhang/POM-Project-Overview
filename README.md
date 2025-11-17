@@ -16,9 +16,7 @@ This repository implements the **classical benchmark solver** used to validate m
 - Multivariate polynomial utilities  
 - Moment matrix and Hankel structure construction  
 - Burer–Monteiro factorization  
-  \[
-  M_d = R R^\top
-  \]
+  $$M_d = R R^\top$$
 - Augmented Lagrangian constraint enforcement  
 - Hand-written gradients for SciPy L-BFGS-B  
 - PSD + Hankel projection via Dykstra  
