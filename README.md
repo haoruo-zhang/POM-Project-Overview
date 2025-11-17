@@ -77,4 +77,6 @@ These codes reproduce the theoretical and numerical results used in the manuscri
 ## 📬 Contact
 
 If you would like access to the private POM-PGD implementation or have questions about the computational setup, feel free to contact me.
+**Haoruo Zhang**  
+Email: haoruozhang0728@gmail.com
 
